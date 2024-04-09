@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 387340d6fc16041e2b989e218a47c7bc
+timeCreated: 1468692540
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Editor/Gameplay/TimedSelfDestructInspector.cs
+  uploadId: 589197

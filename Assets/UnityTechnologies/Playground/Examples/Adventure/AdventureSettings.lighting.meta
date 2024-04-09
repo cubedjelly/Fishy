@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58baf00500ef5ef4eb87065ff733930b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Adventure/AdventureSettings.lighting
+  uploadId: 589197

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d8f0bfabf363d4ec5993fbd4f9908ad8
+timeCreated: 1516319484
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: d8f0ab684dbe14489a480c906aee0347, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Scripts/Movement/AutoMove.cs
+  uploadId: 589197

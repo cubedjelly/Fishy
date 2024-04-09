@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 00823a7fba8f54539b5e66be36064ec6
+timeCreated: 1520111564
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Resources/Playground.guiskin
+  uploadId: 589197

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ec870ed13dd68446abb3fc5534317068
+timeCreated: 1471291814
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Prefabs/ResourceItem.prefab
+  uploadId: 589197

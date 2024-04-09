@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e790ae44d094f24891d60aba11e0a52
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Prefabs/Characters/SlimyWes.prefab
+  uploadId: 589197

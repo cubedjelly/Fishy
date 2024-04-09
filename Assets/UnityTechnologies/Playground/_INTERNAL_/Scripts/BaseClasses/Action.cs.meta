@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8fd87a704e24942e284f1e5ba1889c71
+timeCreated: 1477170428
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/BaseClasses/Action.cs
+  uploadId: 589197

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 07900d00ce1724d5c9787953d8c61119
+timeCreated: 1516141029
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Editor/DefaultComponents/BoxCollider2DInspector.cs
+  uploadId: 589197

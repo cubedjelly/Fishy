@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9ddfe9d025db4b058cfab0c1466019c
+timeCreated: 1468939131
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Defender/LaserBeam.prefab
+  uploadId: 589197

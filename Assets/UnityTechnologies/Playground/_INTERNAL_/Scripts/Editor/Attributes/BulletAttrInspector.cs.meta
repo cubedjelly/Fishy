@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c36c5e237f7f44995921b2c6b72b9469
+timeCreated: 1472216550
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Editor/Attributes/BulletAttrInspector.cs
+  uploadId: 589197

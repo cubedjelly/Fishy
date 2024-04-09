@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 92cf45d3183be4e1f921c64a4bc2c6db
+timeCreated: 1468754825
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Utilities/Utils.cs
+  uploadId: 589197

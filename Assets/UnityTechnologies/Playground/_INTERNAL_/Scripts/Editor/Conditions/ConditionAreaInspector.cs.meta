@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 54dc311bbe9de410fb35924bacb5f855
+timeCreated: 1473168173
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Editor/Conditions/ConditionAreaInspector.cs
+  uploadId: 589197

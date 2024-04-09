@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f723b1979947445779b87ef7a1089a32
+timeCreated: 1502055042
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Adventure/Adventure.unity
+  uploadId: 589197

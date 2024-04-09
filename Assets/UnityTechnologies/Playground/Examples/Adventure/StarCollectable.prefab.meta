@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62bf5f4c55a554355bb7f0b398f8620c
+timeCreated: 1502056762
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Adventure/StarCollectable.prefab
+  uploadId: 589197

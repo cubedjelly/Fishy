@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2e23adf719b9a428c94221163d353aba
+timeCreated: 1469791180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Maze/Coin.prefab
+  uploadId: 589197

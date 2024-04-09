@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5773a0ba5664d4a39af99d741b830d03
+timeCreated: 1471296466
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Editor/Conditions/Actions/OnOffActionInspector.cs
+  uploadId: 589197

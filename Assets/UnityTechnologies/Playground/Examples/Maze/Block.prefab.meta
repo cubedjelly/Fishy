@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b9bdbfaa9cc84a8daef7fb586b5242a
+timeCreated: 1469790670
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Maze/Block.prefab
+  uploadId: 589197

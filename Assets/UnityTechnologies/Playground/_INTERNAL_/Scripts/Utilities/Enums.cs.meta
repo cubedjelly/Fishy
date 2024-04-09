@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bf2bac48d9da84bb0ba835d5b3882a2d
+timeCreated: 1468753029
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Utilities/Enums.cs
+  uploadId: 589197

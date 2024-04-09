@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f6ae8712879c4f40bf6af3fe490badd
+timeCreated: 1467932001
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Prefabs/UserInterface.prefab
+  uploadId: 589197

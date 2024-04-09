@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: fb970c45b40bb4652a8310660a03dfb2
+timeCreated: 1516471610
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 45b9726de630c4366b92ed156909be71, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Scripts/Attributes/HealthSystemAttribute.cs
+  uploadId: 589197

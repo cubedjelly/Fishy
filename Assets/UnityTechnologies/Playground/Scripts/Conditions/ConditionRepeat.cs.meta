@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 81ae04e11dc2a46608bac56f852ff89e
+timeCreated: 1516551432
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 5f3b4ae0797634605a7219822b2200fc, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Scripts/Conditions/ConditionRepeat.cs
+  uploadId: 589197

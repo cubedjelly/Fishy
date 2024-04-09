@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3737d31d383fff4497f646e939e49c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Settings/URPAsset_Renderer.asset
+  uploadId: 589197

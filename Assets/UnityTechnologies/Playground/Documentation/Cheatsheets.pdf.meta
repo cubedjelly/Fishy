@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dbbbc3691150144c8b1bb68d5b12f608
+timeCreated: 1517395088
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Documentation/Cheatsheets.pdf
+  uploadId: 589197

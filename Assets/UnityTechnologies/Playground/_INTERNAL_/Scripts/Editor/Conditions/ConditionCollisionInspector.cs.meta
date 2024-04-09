@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3d301167eedd34cd4b60f31dae40ef14
+timeCreated: 1472136478
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Editor/Conditions/ConditionCollisionInspector.cs
+  uploadId: 589197

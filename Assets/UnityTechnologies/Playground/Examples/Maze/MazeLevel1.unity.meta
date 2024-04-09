@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9b71d909be1c4e9dbb8b3599d76b33c
+timeCreated: 1469791281
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Maze/MazeLevel1.unity
+  uploadId: 589197

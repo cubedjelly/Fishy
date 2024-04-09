@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: efc1687f6d424446fb68251e306e568c
+timeCreated: 1480856334
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/UserInterface/DialogueSystem.cs
+  uploadId: 589197

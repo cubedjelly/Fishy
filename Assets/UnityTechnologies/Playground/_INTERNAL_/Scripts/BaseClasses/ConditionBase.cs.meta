@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5371649469359467986c7497aad56c56
+timeCreated: 1472136820
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/BaseClasses/ConditionBase.cs
+  uploadId: 589197

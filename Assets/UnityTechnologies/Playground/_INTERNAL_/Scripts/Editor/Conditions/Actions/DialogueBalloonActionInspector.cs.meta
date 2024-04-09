@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ba6700fafaaff41c5b21fa56ca4ee393
+timeCreated: 1489358857
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Scripts/Editor/Conditions/Actions/DialogueBalloonActionInspector.cs
+  uploadId: 589197

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 668b8fc622d7e49e8bd9fa5621a7d6ec
+timeCreated: 1471301165
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Roguelike/StoneBlock.prefab
+  uploadId: 589197

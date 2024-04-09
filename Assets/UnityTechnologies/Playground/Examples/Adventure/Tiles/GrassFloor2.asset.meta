@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61d170a7516c458458599d0808c42b73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Adventure/Tiles/GrassFloor2.asset
+  uploadId: 589197

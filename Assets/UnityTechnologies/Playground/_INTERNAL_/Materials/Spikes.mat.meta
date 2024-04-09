@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82019780fb9e04d42986d81d71a540bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/_INTERNAL_/Materials/Spikes.mat
+  uploadId: 589197

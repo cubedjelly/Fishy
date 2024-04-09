@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5f5ddfd26659d48d89d2c954d8e4a5e8
+timeCreated: 1471302265
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Examples/Roguelike/CoinResource.prefab
+  uploadId: 589197

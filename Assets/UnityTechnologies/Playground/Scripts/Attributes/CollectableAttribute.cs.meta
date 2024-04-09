@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dde7269c73c0d4a0aa7d33419579c17d
+timeCreated: 1516471601
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 4c9a1e238f5db4622a28990b248c24f8, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 109917
+  packageName: Unity Playground | URP
+  packageVersion: 1.6
+  assetPath: Assets/UnityTechnologies/Playground/Scripts/Attributes/CollectableAttribute.cs
+  uploadId: 589197
