@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 27
-  productGUID: 00000000000000000000000000000000
+  productGUID: 26f5d262344e04bde8ddd60474d48e86
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -825,7 +825,7 @@ PlayerSettings:
   cloudProjectId: d19d998e-d587-4cac-bdb2-78704523b55f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: Fishy
   organizationId: cubedjelly
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
