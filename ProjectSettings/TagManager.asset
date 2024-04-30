@@ -3,12 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Player2
-  - Enemy
-  - Bullet
-  - Ground
-  - Pickup
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -30,9 +25,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
   - 
   - 
   - 
@@ -43,12 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 145232093
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Gameplay
-    uniqueID: 1087635889
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
     locked: 0
