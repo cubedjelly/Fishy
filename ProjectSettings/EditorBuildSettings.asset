@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FIshin Final.unity
+    guid: cb4932caf52d02e48afe609b1eff1ad1
+  - enabled: 1
+    path: Assets/Scenes/Fishin Minigame.unity
+    guid: e1aec9373a2c95f4b889666c2cec61fc
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
