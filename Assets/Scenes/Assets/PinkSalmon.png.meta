@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PinkSalmon_0: -3842148529331324005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

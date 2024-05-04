@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SockeyeSalmon_0: 7151886960217054698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
