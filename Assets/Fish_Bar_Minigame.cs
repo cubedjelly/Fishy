@@ -38,7 +38,7 @@ public class Fish_Bar_Minigame : MonoBehaviour
 
     bool pause = false;
 
-    [SerializeField] float failTimer = 10f;
+    [SerializeField] float failTimer = 8f;
 
 
 

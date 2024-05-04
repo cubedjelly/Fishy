@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 [AddComponentMenu("")]
 public class UIScript : MonoBehaviour
@@ -109,7 +110,7 @@ public class UIScript : MonoBehaviour
 	    if (!gameOver)
 	    {
 			gameOver = true;
-			winLabel.text = "Player " + ++playerNumber + " wins!";
+			winLabel.text = "Gus" + " wins!";
 			statsPanel.SetActive(false);
 			winPanel.SetActive(true);
 		}
@@ -233,5 +234,40 @@ public class ResourceStruct
 	{
 		amount = a;
 		UIItem = uiRef;
+	}
+}
+
+public class SceneLoader : MonoBehaviour
+{
+	void start()
+	{
+		if (Input.GetKeyDown(KeyCode.R))
+		{
+			SceneManager.LoadScene("Fishin Minigame");
+		}
+	}
+}
+
+public class GameManager : MonoBehaviour
+{
+	// The name of the scene containing the fishing mini-game
+	public string fishingMiniGameSceneName = "FishingMiniGame";
+
+	// Function to be called when the player wins the game
+	public void GameWon()
+	{
+		ReturnToFishingMiniGame();
+	}
+
+	// Function to be called when the player loses the game
+	public void GameLost()
+	{
+		ReturnToFishingMiniGame();
+	}
+
+	// Function to return to the fishing mini-game scene
+	private void ReturnToFishingMiniGame()
+	{
+		SceneManager.LoadScene(fishingMiniGameSceneName);
 	}
 }
